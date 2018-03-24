@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: bmc-software.api.streamdata.gallery
+title: Streamdata Gallery BMC Software
+url: bmc-software.streamdata.gallery
 tag: BMC Software
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: bmc-software
 github_branch: master
 collections:
