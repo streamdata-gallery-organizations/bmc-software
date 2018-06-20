@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/713-bmc-so
 x-kinRank: "8"
 x-alexaRank: "27308"
 tags: BMC Software
-created: "2018-05-25"
-modified: "2018-05-25"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/bmc-software/master/_listings/bmc-software/apis.md
 specificationVersion: "0.14"
 apis:
@@ -1014,6 +1014,8 @@ x-common:
   url: http://feeds.feedburner.com/BmcBlogs
 - type: x-crunchbase
   url: https://crunchbase.com/organization/bmc
+- type: x-documentation
+  url: https://docs.bmc.com/docs/dashboard.action
 - type: x-email
   url: customer_support@bmc.com
 - type: x-email
