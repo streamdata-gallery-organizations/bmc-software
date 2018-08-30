@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: BMC Software
 x-complete: 1
@@ -47,7 +46,7 @@ paths:
       - Custom Events
   '/custom_events/all?fromUtc={fromUtc}&amp;toUtc={toUtc} ':
     ' get ':
-      summary: Custom_events All?fromUtc={fromUtc}&amp;toUtc={toUtc}
+      summary: Custom Events
       description: Gets all custom events using optional filter.
       operationId: -custom-events-allfromutcfromutcamptoutctoutc-
       x-api-path-slug: custom-eventsallfromutcfromutcamptoutctoutc-get
@@ -1202,4 +1201,3 @@ paths:
           description: OK
       tags:
       - Actions
----
